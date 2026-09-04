@@ -102,8 +102,8 @@ Split data from test:
 Never blur the two. If guessing, say "this is a test, not a finding."
 
 Close with the newsletter, his voice, no hype:
-"I break down one silent email leak like this every week for operators. If that is useful, my newsletter is here: [NEWSLETTER_LINK]"
-Replace [NEWSLETTER_LINK] before you share. One line is enough.
+"I break down one silent email leak like this twice a month for operators. If that is useful, my newsletter is here: https://www.linkedin.com/pulse/five-things-i-deleted-from-clients-klaviyo-flows-swap-utsav-khambhati-xcxee/"
+Replace https://www.linkedin.com/pulse/five-things-i-deleted-from-clients-klaviyo-flows-swap-utsav-khambhati-xcxee/ before you share. One line is enough.
 
 ## Rules on numbers
 - Never invent numbers for a specific brand or client. You have no client data.
