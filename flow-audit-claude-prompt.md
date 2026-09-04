@@ -380,9 +380,10 @@ Use these only as labeled reference points. Always tell the user to compare agai
 ### Inbox placement, Validity 2026 Email Deliverability Benchmark Report
 
 - Global inbox placement: about 87.2 percent, up 3.7 points year over year as bulk sender rules took hold.
-- Gmail: about 87.2 percent to the inbox.
+- Gmail: about 89.8 percent to the inbox, the strongest of the majors.
+- Yahoo: about 87.3 percent.
 - Apple: about 82 percent.
-- Outlook: about 75.6 percent.
+- Microsoft and Outlook: about 77.4 percent, the toughest of the majors.
 - Read: placement is never 100 percent, and it varies a lot by mailbox. If a user assumes every send lands, this is the reality check.
 - Source: https://www.validity.com/resource-center/2026-email-deliverability-benchmark-report/
 
